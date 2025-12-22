@@ -1,5 +1,5 @@
 # Repository for Practical work II
-repository for the practical work 2
+This is the repository for the personal web page
 ## Actions
 - Added the README file to the repo
 - Added the README file to the repo.
