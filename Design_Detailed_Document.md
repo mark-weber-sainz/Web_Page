@@ -9,5 +9,6 @@
 - Then I started the first day doing the index.
 - The second day was dedicated to the contact me part.
 - The third day was dedicated to the degree part, the next day was the 24 of December, this day i did not do anything.
-- The the 25th I finished the Degree part and started the about me.
--  
+- The 25th I finished the Degree part and started the about me.
+- The 26th I put in the about me part and also made and put in the repo the fce part(only able to go to it from the degree part).
+- 
