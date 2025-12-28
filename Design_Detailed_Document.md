@@ -11,4 +11,8 @@
 - The third day was dedicated to the degree part, the next day was the 24 of December, this day i did not do anything.
 - The 25th I finished the Degree part and started the about me.
 - The 26th I put in the about me part and also made and put in the repo the fce part(only able to go to it from the degree part).
-- 
+- The 27th I put in the repo the topic file.
+- The 28th I put the net file in the repo and then send the work.
+
+# Conclusion 
+- In conclusion the web page is not the most stylish one, but it works, the next one I will need to start earlier to get more time and to be able to put in more work to put the css.
