@@ -10,3 +10,5 @@ This is the repository for the personal web page.
 - Added the degree file to the repo.
 - Added the about me file to the repo.
 - Added the fce file to the repo.
+- Added the topic file to the repo.
+- Added the net file to the repo.
